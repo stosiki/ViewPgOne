@@ -1,0 +1,17 @@
+<resources xmlns:custom="http://schemas.android.com/apk/res-auto">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="SomeViewStyle">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="main_color">@color/blue_500</item>
+        <item name="overlay_color">@color/teal_500</item>
+        <item name="highlight_color">@color/indigo_500</item>
+        <item name="selected_border_width">2dp</item>
+        <item name="text_size">20sp</item>
+    </style>
+</resources>
